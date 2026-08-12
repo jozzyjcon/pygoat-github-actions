@@ -1,0 +1,4 @@
+@@ -1,3 +1 @@
+[[IgnoredVulns]]
+id = "PYSEC-2026-1472"
+reason = "We do not have an HTTP endpoint, and queries are made to trusted endpoints."
